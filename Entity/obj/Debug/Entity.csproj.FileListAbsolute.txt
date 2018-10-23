@@ -1,0 +1,13 @@
+D:\Working\CMS\Entity\bin\Debug\Entity.dll
+D:\Working\CMS\Entity\bin\Debug\Entity.pdb
+D:\Working\CMS\Entity\obj\Debug\Entity.dll
+D:\Working\CMS\Entity\obj\Debug\Entity.pdb
+D:\Working\KhaiTri\CMS\Entity\bin\Debug\Entity.dll
+D:\Working\KhaiTri\CMS\Entity\bin\Debug\Entity.pdb
+D:\Working\KhaiTri\CMS\Entity\obj\Debug\Entity.dll
+D:\Working\KhaiTri\CMS\Entity\obj\Debug\Entity.pdb
+D:\Temp\BanhBao\Entity\bin\Debug\Entity.dll
+D:\Temp\BanhBao\Entity\bin\Debug\Entity.pdb
+D:\Temp\BanhBao\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Temp\BanhBao\Entity\obj\Debug\Entity.dll
+D:\Temp\BanhBao\Entity\obj\Debug\Entity.pdb

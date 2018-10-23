@@ -1,0 +1,5 @@
+D:\Temp\BanhBao\Entity\bin\Release\Entity.dll
+D:\Temp\BanhBao\Entity\bin\Release\Entity.pdb
+D:\Temp\BanhBao\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+D:\Temp\BanhBao\Entity\obj\Release\Entity.dll
+D:\Temp\BanhBao\Entity\obj\Release\Entity.pdb

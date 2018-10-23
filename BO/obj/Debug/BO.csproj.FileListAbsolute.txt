@@ -1,0 +1,10 @@
+D:\Temp\BanhBao\BO\bin\Debug\BO.dll
+D:\Temp\BanhBao\BO\bin\Debug\BO.pdb
+D:\Temp\BanhBao\BO\obj\Debug\BO.dll
+D:\Temp\BanhBao\BO\obj\Debug\BO.pdb
+D:\Temp\BanhBao\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\Temp\BanhBao\BO\bin\Debug\DAL.dll
+D:\Temp\BanhBao\BO\bin\Debug\Entity.dll
+D:\Temp\BanhBao\BO\bin\Debug\FluentData.dll
+D:\Temp\BanhBao\BO\bin\Debug\DAL.pdb
+D:\Temp\BanhBao\BO\bin\Debug\Entity.pdb

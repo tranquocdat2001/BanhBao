@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table cellpadding="0" cellspacing="0" border="0" width="300px" style="font-size:14px;font-family:Arial">
+        <tr>
+            <td>
+                Chèn box nằm ở bên <a href="javascript:insertBox('left')">trái</a> <a href="javascript:insertBox('center')">giữa</a> <a href="javascript:insertBox('right')">phải</a>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+<script language="javascript">
+    function insertBox(align) {
+        var strHTML = " <table cellpadding='0' cellspacing='0' border='1' align='" + align + "' style='background-color:#eeeeee;margin:5px;padding:5px;border:1px solid #dddddd' width='300px'>";
+        strHTML += "<tr><td>";
+        strHTML += "demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text demo text";
+        strHTML += "<tr><td>";
+        strHTML += "</td></tr></table>";
+
+        window.opener.InsertHTMLBox(strHTML);
+        window.close();
+    }
+    
+</script>

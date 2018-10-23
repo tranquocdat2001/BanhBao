@@ -1,0 +1,14 @@
+D:\Temp\BanhBao\BanhBao\bin\BanhBao.dll.config
+D:\Temp\BanhBao\BanhBao\bin\BanhBao.dll
+D:\Temp\BanhBao\BanhBao\bin\BanhBao.pdb
+D:\Temp\BanhBao\BanhBao\bin\BO.dll
+D:\Temp\BanhBao\BanhBao\bin\Entity.dll
+D:\Temp\BanhBao\BanhBao\bin\Portal.dll
+D:\Temp\BanhBao\BanhBao\bin\DAL.dll
+D:\Temp\BanhBao\BanhBao\bin\FluentData.dll
+D:\Temp\BanhBao\BanhBao\bin\BO.pdb
+D:\Temp\BanhBao\BanhBao\bin\Entity.pdb
+D:\Temp\BanhBao\BanhBao\bin\DAL.pdb
+D:\Temp\BanhBao\BanhBao\obj\Release\BanhBao.csprojResolveAssemblyReference.cache
+D:\Temp\BanhBao\BanhBao\obj\Release\BanhBao.dll
+D:\Temp\BanhBao\BanhBao\obj\Release\BanhBao.pdb

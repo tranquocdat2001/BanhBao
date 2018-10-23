@@ -1,0 +1,8 @@
+D:\Temp\BanhBao\DAL\bin\Release\DAL.dll
+D:\Temp\BanhBao\DAL\bin\Release\DAL.pdb
+D:\Temp\BanhBao\DAL\bin\Release\Entity.dll
+D:\Temp\BanhBao\DAL\bin\Release\FluentData.dll
+D:\Temp\BanhBao\DAL\bin\Release\Entity.pdb
+D:\Temp\BanhBao\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Temp\BanhBao\DAL\obj\Release\DAL.dll
+D:\Temp\BanhBao\DAL\obj\Release\DAL.pdb
