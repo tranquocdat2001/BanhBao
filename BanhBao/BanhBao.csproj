@@ -639,7 +639,9 @@
     <Content Include="UserControl\KhachHang\KhachHangList.ascx" />
     <Content Include="UserControl\Login\ChangePassword.ascx" />
     <Content Include="UserControl\Login\Login.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ajax\Ajax.aspx.cs">

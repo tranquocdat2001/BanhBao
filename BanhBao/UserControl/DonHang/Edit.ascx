@@ -46,9 +46,9 @@
                 <tr>
                     <td>
                         Món hàng : <select name="cboMonHang" id="cboMonHang">
-                            <option value="1" selected>Bánh bao mặn nhân đậu gà, đậu hà lan (non GMO) (KH: Lá mùi)</option>
+                            <!--<option value="1" selected>Bánh bao mặn nhân đậu gà, đậu hà lan (non GMO) (KH: Lá mùi)</option>
                             <option value="2">Bánh bao vị mặn nhân miến truyền thống nhé (vỏ trắng)</option>
-                            <option value="3">Bánh ngọt nhân bí đỏ, yến mạch (KH: mè đen)</option>
+                            <option value="3">Bánh ngọt nhân bí đỏ, yến mạch (KH: mè đen)</option>-->
                             <%--<option value="4">Pate chay</option>--%>
                             <option value="5">Pate chay cỡ đại</option>
                             <option value="6">Pate chay hộp tròn</option>
